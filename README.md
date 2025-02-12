@@ -9,4 +9,4 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
     ```
 2. Run the solution:
    ```bash
-   python3 two_sum.py
+   python3 palindrome_linked_list.py
